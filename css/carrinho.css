@@ -1,0 +1,15 @@
+body {
+    background-color: aliceblue;
+}
+     
+h2{
+
+    color: aqua;
+    text-align: center;
+}
+
+#total {
+    font-weight: bold;
+    color: blue;
+    text-align: right;
+}
